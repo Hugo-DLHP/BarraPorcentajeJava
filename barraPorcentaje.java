@@ -1,5 +1,3 @@
-package Java.Pruebas;
-
 public class barraPorcentaje {
     public static void main(String[] args) {
         int limite = 40;
